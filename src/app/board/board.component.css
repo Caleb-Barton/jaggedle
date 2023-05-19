@@ -1,0 +1,5 @@
+/* board.component.css */
+:host {
+    flex-grow: 1; /* Allow the board to fill the remaining vertical space */
+  }
+  

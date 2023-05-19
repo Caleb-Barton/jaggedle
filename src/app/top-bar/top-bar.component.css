@@ -1,0 +1,10 @@
+/* top-bar.component.css */
+:host {
+  flex-grow: 0; /* Prevent the top bar from growing */
+  background-color: #254F51;
+  display: flex;
+  align-items: center;
+  justify-content: space-between; 
+  box-shadow: 0px 0px 10px #151E21;
+}
+  
